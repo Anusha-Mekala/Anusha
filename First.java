@@ -1,6 +1,6 @@
 public class First {
     public static void main(String[] args){
-        System.out.println("Welcome to java programing");
+        System.out.println("Welcome to java programming");
     }
     
 }
